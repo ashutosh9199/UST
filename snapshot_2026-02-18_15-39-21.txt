@@ -1,0 +1,63 @@
+=== INSTALLED PACKAGES ===
+
+=== ENVIRONMENT VARIABLES ===
+ALLUSERSPROFILE=C:\ProgramData
+APPDATA=C:\Users\Admin\AppData\Roaming
+CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_5424_ZUCOIZUKFWNEIQZA
+CLIENTNAME=FXHY0V3
+COMMONPROGRAMFILES=C:\Program Files\Common Files
+COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files
+COMMONPROGRAMW6432=C:\Program Files\Common Files
+COMPUTERNAME=DESKTOP-DAS0URN
+COMSPEC=C:\Windows\system32\cmd.exe
+DRIVERDATA=C:\Windows\System32\Drivers\DriverData
+HOMEDRIVE=C:
+HOMEPATH=\Users\Admin
+LOCALAPPDATA=C:\Users\Admin\AppData\Local
+LOGONSERVER=\\DESKTOP-DAS0URN
+NUMBER_OF_PROCESSORS=4
+ONEDRIVE=C:\Users\Admin\OneDrive
+OS=Windows_NT
+PATH=C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Users\Admin\AppData\Local\Programs\Python\Python313\Scripts\;C:\Users\Admin\AppData\Local\Programs\Python\Python313\;C:\Users\Admin\AppData\Local\Programs\Python\Launcher\;C:\Users\Admin\AppData\Local\Microsoft\WindowsApps;C:\Users\Admin\AppData\Local\Programs\Microsoft VS Code\bin;c:\Users\Admin\.vscode\extensions\ms-python.debugpy-2025.18.0-win32-x64\bundled\scripts\noConfigScripts
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
+PROCESSOR_ARCHITECTURE=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 62 Stepping 4, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=3e04
+PROGRAMDATA=C:\ProgramData
+PROGRAMFILES=C:\Program Files
+PROGRAMFILES(X86)=C:\Program Files (x86)
+PROGRAMW6432=C:\Program Files
+PSMODULEPATH=C:\Users\Admin\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+SESSIONNAME=RDP-Tcp#4
+SYSTEMDRIVE=C:
+SYSTEMROOT=C:\Windows
+TEMP=C:\Users\Admin\AppData\Local\Temp
+TMP=C:\Users\Admin\AppData\Local\Temp
+USERDOMAIN=DESKTOP-DAS0URN
+USERDOMAIN_ROAMINGPROFILE=DESKTOP-DAS0URN
+USERNAME=Admin
+USERPROFILE=C:\Users\Admin
+WINDIR=C:\Windows
+TERM_PROGRAM=vscode
+TERM_PROGRAM_VERSION=1.109.4
+LANG=en_US.UTF-8
+COLORTERM=truecolor
+PYDEVD_DISABLE_FILE_VALIDATION=1
+VSCODE_DEBUGPY_ADAPTER_ENDPOINTS=c:\Users\Admin\.vscode\extensions\ms-python.debugpy-2025.18.0-win32-x64\.noConfigDebugAdapterEndpoints\endpoint-b7b5f8544dace97f.txt
+BUNDLED_DEBUGPY_PATH=c:\Users\Admin\.vscode\extensions\ms-python.debugpy-2025.18.0-win32-x64\bundled\libs\debugpy
+GIT_ASKPASS=c:\Users\Admin\AppData\Roaming\Code\User\globalStorage\vscode.git\askpass\2d0aa4fb4040936c\askpass.sh
+VSCODE_GIT_ASKPASS_NODE=C:\Users\Admin\AppData\Local\Programs\Microsoft VS Code\Code.exe
+VSCODE_GIT_ASKPASS_EXTRA_ARGS=
+VSCODE_GIT_ASKPASS_MAIN=c:\Users\Admin\AppData\Roaming\Code\User\globalStorage\vscode.git\askpass\2d0aa4fb4040936c\askpass-main.js
+VSCODE_GIT_IPC_HANDLE=\\.\pipe\vscode-git-9910000b52-sock
+PYTHONSTARTUP=c:\Users\Admin\AppData\Roaming\Code\User\workspaceStorage\74ec687569e84323348af7d56c2390a3\ms-python.python\pythonrc.py
+PYTHON_BASIC_REPL=1
+VSCODE_INJECTION=1
+VSCODE_NONCE=a1de7def-b33d-48b6-89fc-7191cdfd2996
+VSCODE_A11Y_MODE=0
+VSCODE_STABLE=1
+
+=== ACTIVE USERS ===
+Could not retrieve active users
